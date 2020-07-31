@@ -1,6 +1,0 @@
-function y = narciss(x)
-    temp = x ;
-    while x > 0
-        
-    end
-end
